@@ -115,7 +115,7 @@ const Hero = () => {
             <div className="profile-frame">
               <div className="profile-image-container">
                 <img 
-                  src="https://scontent.fcgk52-1.fna.fbcdn.net/v/t1.15752-9/670490790_1794056475302907_7922757390210176276_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=9f807c&_nc_ohc=6VmKurawjeQQ7kNvwENH50v&_nc_oc=Adpr3swc1MvyS-ccLaSw1bO4xfoBo6hWPNGulLAfTUOpA9oRvFISV5qxJccOIVzMFRQ&_nc_zt=23&_nc_ht=scontent.fcgk52-1.fna&_nc_ss=7a2a8&oh=03_Q7cD5AESDVUm5XkEP3_hy0U1BVPQreWdOfcLquQBqPcUXtL9cQ&oe=6A080E5F" 
+                  src="/assets/bagus.jpeg" 
                   alt="Bagus Hasan Ali" 
                   className="profile-image"
                 />
